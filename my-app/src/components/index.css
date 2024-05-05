@@ -1,0 +1,30 @@
+p {
+  padding: 10px;
+}
+
+.list-card {
+  width: 100%;
+}
+
+.item-list {
+  border: 1px solid #ebeaea;
+  margin-bottom: 10px;
+}
+
+.fruits-card,
+.vegetable-card {
+  border: 1px solid #ebeaea;
+  width: 100%;
+}
+
+.fruits-card .header,
+.vegetable-card .header {
+  border-bottom: 1px solid #ebeaea;
+  background-color: #e8e8e8;
+}
+
+.fruits-card .body-list,
+.vegetable-card .body-list {
+  border: 1px solid #ebeaea;
+  margin: 10px;
+}
